@@ -5,3 +5,4 @@
 new-featureブランチで変更
 no-fast-forwardで変更
 conflictを起こすために変更(at conflict branch)
+fetchのためにリモートリポジトリで変更(at main branch)
